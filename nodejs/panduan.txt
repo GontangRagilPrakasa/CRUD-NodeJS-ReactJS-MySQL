@@ -1,0 +1,8 @@
+Install dulu express mysql2 dan nodemon, gimana caranya?
+    npm install express
+    npm install --save mysql2
+    npm install -g nodemon
+    
+    kemudian install sequalize untuk menghubungkan database ke nodemo
+    npm install --save sequalize
+    

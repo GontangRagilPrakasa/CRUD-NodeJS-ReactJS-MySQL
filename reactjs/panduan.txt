@@ -1,0 +1,17 @@
+cara install react
+npx create-react-app <namafolder>
+
+jalankan server 
+npm start
+
+install bootstrap
+npm install bootstrap
+
+install javascript bootstrap
+npm install jquery popper.js
+
+install react router
+npm install react-router-dom
+
+install axios
+npm install axios
